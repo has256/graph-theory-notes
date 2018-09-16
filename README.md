@@ -67,7 +67,9 @@
 [23/12 | Revision/Exercises](https://github.com/el-cardu/graph-theory-notes/blob/master/notes/23.md) <br/>
 [25/12 | Exam 2](https://github.com/el-cardu/graph-theory-notes/blob/master/notes/24.md)
 
-#### Grading
+---
+
+## Grading
 
 ```haskell
 
@@ -86,7 +88,9 @@ grade rating
   | otherwise = 'F'
 ```
 
-#### Scheduled Lectures + Office Hours (2018.3)
+---
+
+## Scheduled Lectures + Office Hours (2018.3)
 
 **Scheduled Lectures**
 
