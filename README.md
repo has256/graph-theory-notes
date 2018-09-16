@@ -165,4 +165,4 @@ Roadmap for contributing: </br>
 
 This project is licensed under the GNU General Public License v2.0 - see the [LICENSE.md](https://github.com/el-cardu/graph-theory-notes/blob/master/LICENSE) for details. Have fun! </br>
 
-I follow most of the guidelines of [UFABC Honor's Code](http://professor.ufabc.edu.br/~e.francesquini/codigodehonra/). So, if you use any content of this repository - total or partial -, in any evaluation process, you have to cite this on the terms of Honor's Code. Thank you!
+I follow most of the guidelines of [UFABC Honor's Code](http://professor.ufabc.edu.br/~e.francesquini/codigodehonra/). So, if you use any exercise solution of this repository - total or partial -, in any evaluation process, you have to cite this on the terms of Honor's Code. Thank you!
