@@ -57,7 +57,7 @@
 
 **Week 10** <br/>
 [19/11 | Coloring Edges](https://github.com/el-cardu/graph-theory-notes/blob/master/notes/19.md) <br/>
-[21/11 | ??? ](https://github.com/el-cardu/graph-theory-notes/blob/master/notes/20.md)
+[21/11 | Holiday :tada: ](https://github.com/el-cardu/graph-theory-notes/blob/master/notes/20.md)
 
 **Week 11** <br/>
 [26/11 | Independent Sets and Clicks](https://github.com/el-cardu/graph-theory-notes/blob/master/notes/21.md)<br/>
