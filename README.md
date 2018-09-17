@@ -123,22 +123,33 @@ I'm using some emojis to give you more information about these links.
 	- [Uma Introdução Sucinta à Teoria dos Grafos - IME/USP](https://www.ime.usp.br/~pf/teoriadosgrafos/texto/TeoriaDosGrafos.pdf) :free:
 	- [Introduction to Algorithms - CLRS](https://www.amazon.com.br/Algorithms-Robert-Sedgewick/dp/032157351X?tag=goog0ef-20&smid=A1ZZFT5FULY4LN&ascsubtag=ec346171-74fd-4301-95f0-7dcdaec0ac06) :moneybag:
 	- [Modern Graph Theory - Bollobás](https://www.amazon.com/Modern-Graph-Theory-Graduate-Mathematics/dp/0387984887) :moneybag:
-	- [ Introduction to Graph Theory - West](https://www.amazon.com/Introduction-Graph-Theory-Douglas-West/dp/0130144002) :moneybag:
+	- [Introduction to Graph Theory - West](https://www.amazon.com/Introduction-Graph-Theory-Douglas-West/dp/0130144002) :moneybag:
 	- [Graphs and Digraphs - Chartrand](https://www.amazon.com/Graphs-Digraphs-Fifth-Textbooks-Mathematics/dp/1439826277) :moneybag:
 
-- Courses, Movies, Videos and Tutorials 
+- Courses and Movies
 
 	- [N is a Number - Erdos](https://www.youtube.com/watch?v=dTzkrJKUo-I) :video_camera: :free:
 	- [Graph Theory Algorithms - Udemy](https://www.udemy.com/graph-theory-algorithms/) :video_camera: :free:
+	- [Introduction to Graph Theory - Coursera](https://www.coursera.org/learn/graphs) :video_camera: :free:
+	- [MIT OCW](https://www.youtube.com/watch?v=h9wxtqoa1jY&list=PL6MpDZWD2gTF3mz26HSufmsIO-COKKb5j) :video_camera: :free:
+	- [Graph Theory - NPTEL](https://www.youtube.com/watch?v=Gc8emFk-2vc&list=PL612CE2AB6F38DF9A) :video_camera: :free:
+	- [Introdução à Teoria dos Grafos - OBMEP](https://www.youtube.com/watch?v=Frmwdter-vQ&list=PLrVGp617x0hAm90-7zQzbRsSOnN2Vbr-I)  :video_camera: :free:
 	- [Graph Theory  - Udemy](https://www.udemy.com/graph-theory/) :video_camera: :moneybag:
 	- [Introduction to Graph Theory - Univ. Rhode Island](https://www.math.uri.edu/~eaton/MTH548F03.htm) :free:
+	- [Teoria dos Grafos - Profa. Leticia/UFABC](http://professor.ufabc.edu.br/~leticia.bueno/classes/teoriagrafos/) :free:
+	- [Teoria dos Grafos - Prof. Jair/UFABC](http://professor.ufabc.edu.br/~jair.donadelli/disciplinas-ufabc/grafos-20123.html) :free:
+	- [Intro to Graph Theory - Prof. Aritanan/UFABC](http://professor.ufabc.edu.br/~aritanan.gruber/teaching/gt17/) :free:
+	- [Geeks for Geeks](http://www.cdn.geeksforgeeks.org/fundamentals-of-algorithms/) :free:
 
-- Tutorials and Articles
+- Tutorials, Videos and Articles
 
-	- [Artigo - Euler - Pontes de Königsberg](http://eulerarchive.maa.org/docs/originals/E053.pdf)
-	- [Mathematical Writing](http://professor.ufabc.edu.br/~g.mota/courses/grafos-2018-q3/Knuth.pdf)
-	- [Geeks for Geeks](http://www.cdn.geeksforgeeks.org/fundamentals-of-algorithms/)
+	- [Vídeo Aulas - Sarada Herke](https://www.youtube.com/watch?v=eIb1cz06UwI&list=PLoJC20gNfC2gmT_5WgwYwGMvgCjYVsIQg) :video_camera:
 	- [Portal do Saber - OBMEP](https://portaldosaber.obmep.org.br/index.php/site/index?a=1)
+	- [Euler - Pontes de Königsberg](http://eulerarchive.maa.org/docs/originals/E053.pdf)
+	- [Mathematical Writing](http://professor.ufabc.edu.br/~g.mota/courses/grafos-2018-q3/Knuth.pdf)
+	- [Graph Theory in the Information Age - Fan Chung](https://docs.google.com/viewer?url=http%3A%2F%2Fwww.math.ucsd.edu%2F%7Efan%2Fwp%2Fgraph.pdf)
+	- [An application of graph theory to architecture](https://divisbyzero.com/2010/03/14/an-application-of-graph-theory-to-architecture/)
+	- [MIT: Explained - Graphs](https://news.mit.edu/2012/explained-graphs-computer-science-1217)
 
 - Quiz/Challenges
 	
@@ -165,4 +176,4 @@ Roadmap for contributing: </br>
 
 This project is licensed under the GNU General Public License v2.0 - see the [LICENSE.md](https://github.com/el-cardu/graph-theory-notes/blob/master/LICENSE) for details. Have fun! </br>
 
-I follow most of the guidelines of [UFABC Honor's Code](http://professor.ufabc.edu.br/~e.francesquini/codigodehonra/). So, if you use any exercise solution of this repository - total or partial -, in any evaluation process, you have to cite this on the terms of Honor's Code. Thank you!
+I follow most of the guidelines of [UFABC Honor's Code](http://professor.ufabc.edu.br/~e.francesquini/codigodehonra/). So, if you use any exercise solutions of this repository - total or partial -, in any evaluation process, you have to cite this on the terms of Honor's Code. Thank you!
