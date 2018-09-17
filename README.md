@@ -122,6 +122,8 @@ I'm using some emojis to give you more information about these links.
 
 - Books
 
+	- [Análise de Algoritmos e Estruturas de Dados - Mota](http://professor.ufabc.edu.br/~g.mota/livros/Livro%20-%20Analise%20de%20Algoritmos.pdf) :free:
+	- [Teoria dos Grafos - Mota](http://professor.ufabc.edu.br/~g.mota/livros/Livro%20-%20Grafos.pdf) :free:
 	- [Graph Theory with Applications - Bondy](http://www.iro.umontreal.ca/~hahn/IFT3545/GTWA.pdf) :free:
 	- [Um Curso de Grafos - IME/USP](https://www.ime.usp.br/~tassio/arquivo/2012-ii/grafoes/notas-grafoes.pdf) :free:
 	- [Graph Theory](http://compalg.inf.elte.hu/~tony/Oktatas/TDK/FINAL/) :free:
