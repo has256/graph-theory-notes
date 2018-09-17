@@ -48,24 +48,24 @@
 [31/10 | Pairing and Berge's Theorem](https://github.com/el-cardu/graph-theory-notes/blob/master/notes/14.md)
 
 **Week 08** <br/>
-[15/11 | Hall's Theorem and Corollaries](https://github.com/el-cardu/graph-theory-notes/blob/master/notes/15.md) <br/>
-[17/11 | Connectedness](https://github.com/el-cardu/graph-theory-notes/blob/master/notes/16.md)
+[05/11 | Hall's Theorem and Corollaries](https://github.com/el-cardu/graph-theory-notes/blob/master/notes/15.md) <br/>
+[07/11 | Connectedness](https://github.com/el-cardu/graph-theory-notes/blob/master/notes/16.md)
 
 **Week 09** <br/>
 [12/11 | Hamiltonians and Dirac's Theorem](https://github.com/el-cardu/graph-theory-notes/blob/master/notes/17.md) <br/>
 [14/11 | Coloring of Vertices](https://github.com/el-cardu/graph-theory-notes/blob/master/notes/18.md)
 
 **Week 10** <br/>
-[21/11 | Coloring Edges](https://github.com/el-cardu/graph-theory-notes/blob/master/notes/19.md) <br/>
-[23/11 | Holiday :tada: ](https://github.com/el-cardu/graph-theory-notes/blob/master/notes/20.md)
+[19/11 | Coloring Edges](https://github.com/el-cardu/graph-theory-notes/blob/master/notes/19.md) <br/>
+[21/11 | ??? ](https://github.com/el-cardu/graph-theory-notes/blob/master/notes/20.md)
 
 **Week 11** <br/>
 [26/11 | Independent Sets and Clicks](https://github.com/el-cardu/graph-theory-notes/blob/master/notes/21.md)<br/>
 [28/11 | Planarity ](https://github.com/el-cardu/graph-theory-notes/blob/master/notes/22.md)
 
 **Week 12** <br/>
-[23/12 | Revision/Exercises](https://github.com/el-cardu/graph-theory-notes/blob/master/notes/23.md) <br/>
-[25/12 | Exam 2](https://github.com/el-cardu/graph-theory-notes/blob/master/notes/24.md)
+[03/12 | Revision/Exercises](https://github.com/el-cardu/graph-theory-notes/blob/master/notes/23.md) <br/>
+[05/12 | Exam 2](https://github.com/el-cardu/graph-theory-notes/blob/master/notes/24.md)
 
 ---
 
