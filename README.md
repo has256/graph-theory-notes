@@ -24,23 +24,23 @@
 [19/09 | Basic Concepts and Representations](https://github.com/el-cardu/graph-theory-notes/blob/master/notes/02.md)
 
 **Week 02** <br/>
-[24/09 | Mantel's Theorem: Subgraph, Rides, Tracks, Paths, Cycles and Isomorphisms](https://github.com/el-cardu/graph-theory-notes/blob/master/notes/03.md) <br/>
-[26/09 | Turán's Theorem: Components, cut-edges and cut-vertices](https://github.com/el-cardu/graph-theory-notes/blob/master/notes/04.md)
+[24/09 | Mantel and Turán's Theorem: Subgraph, Rides, Tracks, Paths, Cycles and Isomorphisms](https://github.com/el-cardu/graph-theory-notes/blob/master/notes/03.md) <br/>
+[26/09 | Components, cut-edges and cut-vertices / Bipartite Graphs](https://github.com/el-cardu/graph-theory-notes/blob/master/notes/04.md)
 
 **Week 03** <br/>
-[01/10 | Bipartite Graphs and König's Theorem](https://github.com/el-cardu/graph-theory-notes/blob/master/notes/05.md) <br/>
-[03/10 | Eulerian Graphs and Characterization](https://github.com/el-cardu/graph-theory-notes/blob/master/notes/06.md)
+[01/10 | Eulerian Graphs and Characterization](https://github.com/el-cardu/graph-theory-notes/blob/master/notes/05.md) <br/>
+[03/10 | Eulerian Graphs - Fleury's Algorithm](https://github.com/el-cardu/graph-theory-notes/blob/master/notes/06.md)
 
 **Week 04** <br/>
 [08/10 | Depth-first Search with Correctness](https://github.com/el-cardu/graph-theory-notes/blob/master/notes/07.md) <br/>
 [10/10 | Dijkstra with Correctness](https://github.com/el-cardu/graph-theory-notes/blob/master/notes/08.md)
 
 **Week 05** <br/>
-[15/10 | Trees and Characterization](https://github.com/el-cardu/graph-theory-notes/blob/master/notes/09.md) <br/>
-[17/10 | Minimum Spanning Tree](https://github.com/el-cardu/graph-theory-notes/blob/master/notes/10.md)
+[15/10 | Trees ](https://github.com/el-cardu/graph-theory-notes/blob/master/notes/09.md) <br/>
+[17/10 | Trees and Characterization / Minimum Spanning Tree](https://github.com/el-cardu/graph-theory-notes/blob/master/notes/10.md)
 
 **Week 06** <br/>
-[22/10 | Digraphs, Strongly Connected Components, Topological Ordering](https://github.com/el-cardu/graph-theory-notes/blob/master/notes/11.md) <br/>
+[22/10 | Digraphs and Strongly Connected Components ](https://github.com/el-cardu/graph-theory-notes/blob/master/notes/11.md) <br/>
 [24/10 | Revision/Exercises](https://github.com/el-cardu/graph-theory-notes/blob/master/notes/12.md)
 
 **Week 07** <br/>
@@ -56,8 +56,8 @@
 [14/11 | Coloring of Vertices](https://github.com/el-cardu/graph-theory-notes/blob/master/notes/18.md)
 
 **Week 10** <br/>
-[19/11 | Coloring Edges](https://github.com/el-cardu/graph-theory-notes/blob/master/notes/19.md) <br/>
-[21/11 | Holiday :tada: ](https://github.com/el-cardu/graph-theory-notes/blob/master/notes/20.md)
+[19/11 | Holiday :tada: ](https://github.com/el-cardu/graph-theory-notes/blob/master/notes/19.md) <br/>
+[21/11 | Coloring Edges](https://github.com/el-cardu/graph-theory-notes/blob/master/notes/20.md)
 
 **Week 11** <br/>
 [26/11 | Independent Sets and Clicks](https://github.com/el-cardu/graph-theory-notes/blob/master/notes/21.md)<br/>
