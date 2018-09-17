@@ -116,6 +116,10 @@ I'm using some emojis to give you more information about these links.
 1. :moneybag: are paid tutorials, :free: are free tutorials. Sometimes you will have some free videos/articles and other paid on the same website.
 2. :video_camera: is present when video content is available
 
+- Communities
+	
+	- [UFABC - Teoria dos Grafos - 2018.3](https://chat.whatsapp.com/9FPab3gSMTEFZi87crNKen)
+
 - Books
 
 	- [Graph Theory with Applications - Bondy](http://www.iro.umontreal.ca/~hahn/IFT3545/GTWA.pdf) :free:
