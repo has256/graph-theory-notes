@@ -120,6 +120,9 @@ I'm using some emojis to give you more information about these links.
 
 	- [Graph Theory with Applications - Bondy](http://www.iro.umontreal.ca/~hahn/IFT3545/GTWA.pdf) :free:
 	- [Um Curso de Grafos - IME/USP](https://www.ime.usp.br/~tassio/arquivo/2012-ii/grafoes/notas-grafoes.pdf) :free:
+	- [Graph Theory](http://compalg.inf.elte.hu/~tony/Oktatas/TDK/FINAL/) :free:
+	- [Algorithmic Graph Theory](http://code.google.com/p/graphbook/) :free:
+	- [Handbook of Graph Drawing and Visualization](https://cs.brown.edu/~rt/gdhandbook/) :free:
 	- [Uma Introdução Sucinta à Teoria dos Grafos - IME/USP](https://www.ime.usp.br/~pf/teoriadosgrafos/texto/TeoriaDosGrafos.pdf) :free:
 	- [Introduction to Algorithms - CLRS](https://www.amazon.com.br/Algorithms-Robert-Sedgewick/dp/032157351X?tag=goog0ef-20&smid=A1ZZFT5FULY4LN&ascsubtag=ec346171-74fd-4301-95f0-7dcdaec0ac06) :moneybag:
 	- [Modern Graph Theory - Bollobás](https://www.amazon.com/Modern-Graph-Theory-Graduate-Mathematics/dp/0387984887) :moneybag:
